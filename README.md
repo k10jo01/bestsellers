@@ -1,1 +1,3 @@
-# Persona Projects
+# Bestsellers
+
+Analyzing NY Times Bestsellers
